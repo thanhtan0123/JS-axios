@@ -12,7 +12,9 @@ function getListUser() {
       console.log(err);
     });
 }
-
+function themA() {
+  console.log("gvh");
+}
 function renderTable(arr) {
   var contentHTML = "";
   arr.forEach(function (item, index) {
