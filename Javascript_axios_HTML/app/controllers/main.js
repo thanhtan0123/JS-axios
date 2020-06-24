@@ -13,7 +13,7 @@ function getListUser() {
     });
 }
 function themA() {
-  console.log("gvh");
+  console.log("them lan 2");
 }
 function renderTable(arr) {
   var contentHTML = "";
