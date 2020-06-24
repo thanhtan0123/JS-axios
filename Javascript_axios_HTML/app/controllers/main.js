@@ -12,7 +12,9 @@ function getListUser() {
       console.log(err);
     });
 }
-
+function themA() {
+  console.log("them lan 2");
+}
 function renderTable(arr) {
   var contentHTML = "";
   arr.forEach(function (item, index) {
